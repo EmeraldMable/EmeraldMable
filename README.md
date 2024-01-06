@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mable.
    I like the vibe of learning.
    I've worked as an assistant teacher in an international school.
-   It takes me many years to find out what my passion is.
+   It took me many years to find out what my passion is.
    After I've found my passion in coding, I chose web development path.
   I have learnt many skills like css, html , js , react , node , php , sass , jquery , bootstrap from multiple tutorials and courses.
   And I am still learning more and more.
